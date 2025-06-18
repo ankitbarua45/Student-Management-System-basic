@@ -20,7 +20,7 @@ A basic **Student Management System** built using the C programming language. Th
 - 🔍 Search for a student by ID or name  
 - ✏️ Update existing student information  
 - ❌ Delete a student record  
-- 💾 File handling to save data persistently
+
 
 ---
 
